@@ -1,7 +1,7 @@
 {
-  "name": "readable-stream",
+  "name": "vite-compatible-readable-stream",
   "version": "3.6.0",
-  "description": "Streams3, a user-land copy of the stream library from Node.js",
+  "description": "Streams3, a browser compatible copy of the stream library from Node.js with circular dependencies removed",
   "main": "readable.js",
   "engines": {
     "node": ">= 6"
@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nodejs/readable-stream"
+    "url": "git://github.com/TechInSite/readable-stream"
   },
   "keywords": [
     "readable",
