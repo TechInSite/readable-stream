@@ -5,7 +5,6 @@ require('./lib/_stream_writable.js');
 require('./lib/_stream_duplex.js');
 require('./lib/_stream_transform.js');
 require('./lib/_stream_passthrough.js');
-require('./lib/_stream_passthrough.js');
 
 exports = module.exports = Registry.Readable;
 
