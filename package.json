@@ -1,6 +1,6 @@
 {
   "name": "vite-compatible-readable-stream",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "description": "Streams3, a browser compatible copy of the stream library from Node.js with circular dependencies removed",
   "main": "readable.js",
   "engines": {
